@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestCases.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.389 sec <<< FAILURE!
+verifyHomePageTitleTest(TestCases.HomePageTest)  Time elapsed: 0.012 sec  <<< FAILURE!
+java.lang.AssertionError: Home page title not matched expected [CRMPRO] but found [Free eBooks | Project Gutenberg]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+	at org.testng.Assert.assertEquals(Assert.java:122)
+	at org.testng.Assert.assertEquals(Assert.java:629)
+	at TestCases.HomePageTest.verifyHomePageTitleTest(HomePageTest.java:29)
+

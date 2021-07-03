@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24332" started-at="2021-07-03T21:20:35 IST" finished-at="2021-07-03T21:20:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24332" started-at="2021-07-03T21:20:35 IST" finished-at="2021-07-03T21:20:59 IST">
+      <class name="TestCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="setUp" is-config="true" duration-ms="8567" started-at="2021-07-03T21:20:50 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VerifyOnClickingMoreLatestBookLinkNewPageIsGettingOpened()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="VerifyOnClickingMoreLatestBookLinkNewPageIsGettingOpened" duration-ms="2" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyOnClickingMoreLatestBookLinkNewPageIsGettingOpened -->
+        <test-method status="PASS" signature="verifyBookDetails()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="verifyBookDetails" duration-ms="2" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBookDetails -->
+        <test-method status="PASS" signature="verifyDisplayBookCounts()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="verifyDisplayBookCounts" duration-ms="23" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDisplayBookCounts -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="verifyHomePageTitle" duration-ms="7" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="verifyThePageHeader()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="verifyThePageHeader" duration-ms="35" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyThePageHeader -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.HomePageTest@7a36aefa]" name="tearDown" is-config="true" duration-ms="65" started-at="2021-07-03T21:20:59 IST" finished-at="2021-07-03T21:20:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.HomePageTest -->
+      <class name="TestCases.SearchPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCases.SearchPageTest@31f924f5]" name="setUp" is-config="true" duration-ms="11179" started-at="2021-07-03T21:20:35 IST" finished-at="2021-07-03T21:20:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBookIsGettingSearch()[pri:0, instance:TestCases.SearchPageTest@31f924f5]" name="verifyBookIsGettingSearch" duration-ms="4336" started-at="2021-07-03T21:20:46 IST" finished-at="2021-07-03T21:20:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBookIsGettingSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCases.SearchPageTest@31f924f5]" name="tearDown" is-config="true" duration-ms="70" started-at="2021-07-03T21:20:50 IST" finished-at="2021-07-03T21:20:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.SearchPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
